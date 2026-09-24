@@ -1,0 +1,21 @@
+{
+  "baseUrl": "https://mafusaik.github.io/tracks",
+  "tracks": [
+    {
+      "id": "little_by_little",
+      "title": "Little by Little",
+      "level": "A2",
+      "durationSec": 117.96,
+      "audioPath": "/little_by_little.m4a",
+      "timelinePath": "/little_by_little_timeline.json"
+    },
+    {
+      "id": "turning_a_new_page",
+      "title": "Turning a New Page",
+      "level": "B1",
+      "durationSec": 263.6,
+      "audioPath": "/turning_a_new_page.m4a",
+      "timelinePath": "/turning_a_new_page_timeline.json"
+    }
+  ]
+}
