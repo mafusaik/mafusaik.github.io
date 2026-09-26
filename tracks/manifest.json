@@ -1,5 +1,6 @@
 {
   "baseUrl": "https://mafusaik.github.io/tracks",
+  "version": 1,
   "tracks": [
     {
       "id": "little_by_little",
