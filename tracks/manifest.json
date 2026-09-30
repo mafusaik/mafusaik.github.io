@@ -1,6 +1,6 @@
 {
   "baseUrl": "https://mafusaik.github.io/tracks",
-  "version": 3,
+  "version": 4,
   "tracks": [
     {
       "id": "little_by_little",
@@ -49,6 +49,14 @@
   "durationSec": 244.24,
   "audioPath": "/closer_than_ever.m4a",
   "timelinePath": "/closer_than_ever_timeline.json"
+},
+    {
+  "id": "step_by_step",
+  "title": "Step by Step",
+  "level": "A2",
+  "durationSec": 185.16,
+  "audioPath": "/step_by_step.m4a",
+  "timelinePath": "/step_by_step_timeline.json"
 }
   ]
 }
