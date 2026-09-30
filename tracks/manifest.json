@@ -41,6 +41,14 @@
   "durationSec": 199.6,
   "audioPath": "/at_a_restaurant.m4a",
   "timelinePath": "/at_a_restaurant_timeline.json"
+},
+    {
+  "id": "closer_than_ever",
+  "title": "Closer Than Ever",
+  "level": "B2",
+  "durationSec": 244.24,
+  "audioPath": "/closer_than_ever.m4a",
+  "timelinePath": "/closer_than_ever_timeline.json"
 }
   ]
 }
