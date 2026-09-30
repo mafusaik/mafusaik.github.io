@@ -1,6 +1,6 @@
 {
   "baseUrl": "https://mafusaik.github.io/tracks",
-  "version": 1,
+  "version": 2,
   "tracks": [
     {
       "id": "little_by_little",
@@ -17,6 +17,30 @@
       "durationSec": 263.6,
       "audioPath": "/turning_a_new_page.m4a",
       "timelinePath": "/turning_a_new_page_timeline.json"
-    }
+    },
+    {
+  "id": "morning_routine",
+  "title": "Morning Routine",
+  "level": "A2",
+  "durationSec": 150.0,
+  "audioPath": "/morning_routine.m4a",
+  "timelinePath": "/morning_routine_timeline.json"
+},
+{
+  "id": "plans_for_the_weekend",
+  "title": "Plans for the Weekend",
+  "level": "B1",
+  "durationSec": 174.4,
+  "audioPath": "/plans_for_the_weekend.m4a",
+  "timelinePath": "/plans_for_the_weekend_timeline.json"
+},
+{
+  "id": "at_a_restaurant",
+  "title": "At a Restaurant",
+  "level": "A2",
+  "durationSec": 199.6,
+  "audioPath": "/at_a_restaurant.m4a",
+  "timelinePath": "/at_a_restaurant_timeline.json"
+}
   ]
 }
