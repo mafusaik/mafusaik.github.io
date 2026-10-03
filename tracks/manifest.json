@@ -3,14 +3,6 @@
   "version": 4,
   "tracks": [
     {
-      "id": "little_by_little",
-      "title": "Little by Little",
-      "level": "A2",
-      "durationSec": 117.96,
-      "audioPath": "/little_by_little.m4a",
-      "timelinePath": "/little_by_little_timeline.json"
-    },
-    {
       "id": "turning_a_new_page",
       "title": "Turning a New Page",
       "level": "B1",
@@ -57,6 +49,22 @@
   "durationSec": 185.16,
   "audioPath": "/step_by_step.m4a",
   "timelinePath": "/step_by_step_timeline.json"
+},
+    {
+  "id": "speaking_honestly",
+  "title": "Speaking Honestly",
+  "level": "B2",
+  "durationSec": 253.5,
+  "audioPath": "/speaking_honestly.m4a",
+  "timelinePath": "/speaking_honestly_timeline.json"
+},
+{
+  "id": "life_outside_work",
+  "title": "Life Outside Work",
+  "level": "B1",
+  "durationSec": 219.59,
+  "audioPath": "/life_outside_work.m4a",
+  "timelinePath": "/life_outside_work_timeline.json"
 }
   ]
 }
