@@ -1,6 +1,6 @@
 {
   "baseUrl": "https://mafusaik.github.io/tracks",
-  "version": 5,
+  "version": 6,
   "tracks": [
     {
       "id": "morning_routine",
@@ -8,7 +8,8 @@
       "level": "A2",
       "durationSec": 150.0,
       "audioPath": "/morning_routine.m4a",
-      "timelinePath": "/morning_routine_timeline.json"
+      "timelinePath": "/morning_routine_timeline.json",
+      "isPremium": false
     },
     {
       "id": "at_a_restaurant",
@@ -16,7 +17,8 @@
       "level": "A2",
       "durationSec": 199.6,
       "audioPath": "/at_a_restaurant.m4a",
-      "timelinePath": "/at_a_restaurant_timeline.json"
+      "timelinePath": "/at_a_restaurant_timeline.json",
+      "isPremium": true
     },
     {
       "id": "step_by_step",
@@ -24,7 +26,8 @@
       "level": "A2",
       "durationSec": 185.16,
       "audioPath": "/step_by_step.m4a",
-      "timelinePath": "/step_by_step_timeline.json"
+      "timelinePath": "/step_by_step_timeline.json",
+      "isPremium": true
     },
     {
       "id": "life_outside_work",
@@ -32,7 +35,8 @@
       "level": "B1",
       "durationSec": 219.59,
       "audioPath": "/life_outside_work.m4a",
-      "timelinePath": "/life_outside_work_timeline.json"
+      "timelinePath": "/life_outside_work_timeline.json",
+      "isPremium": true
     },
     {
       "id": "turning_a_new_page",
@@ -40,7 +44,8 @@
       "level": "B1",
       "durationSec": 263.6,
       "audioPath": "/turning_a_new_page.m4a",
-      "timelinePath": "/turning_a_new_page_timeline.json"
+      "timelinePath": "/turning_a_new_page_timeline.json",
+      "isPremium": true
     },
     {
       "id": "plans_for_the_weekend",
@@ -48,7 +53,8 @@
       "level": "B1",
       "durationSec": 174.4,
       "audioPath": "/plans_for_the_weekend.m4a",
-      "timelinePath": "/plans_for_the_weekend_timeline.json"
+      "timelinePath": "/plans_for_the_weekend_timeline.json",
+      "isPremium": true
     },
     {
       "id": "some_people_never_disappear",
@@ -56,7 +62,8 @@
       "level": "B1",
       "durationSec": 174.0,
       "audioPath": "/some_people_never_disappear.m4a",
-      "timelinePath": "/some_people_never_disappear_timeline.json"
+      "timelinePath": "/some_people_never_disappear_timeline.json",
+      "isPremium": false
     },
     {
       "id": "speaking_honestly",
@@ -64,7 +71,8 @@
       "level": "B2",
       "durationSec": 253.5,
       "audioPath": "/speaking_honestly.m4a",
-      "timelinePath": "/speaking_honestly_timeline.json"
+      "timelinePath": "/speaking_honestly_timeline.json",
+      "isPremium": true
     },
     {
       "id": "closer_than_ever",
@@ -72,7 +80,8 @@
       "level": "B2",
       "durationSec": 244.24,
       "audioPath": "/closer_than_ever.m4a",
-      "timelinePath": "/closer_than_ever_timeline.json"
+      "timelinePath": "/closer_than_ever_timeline.json",
+      "isPremium": false
     }
   ]
 }
