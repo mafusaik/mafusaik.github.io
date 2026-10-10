@@ -8,7 +8,8 @@
       "level": "A1",
       "durationSec": 185.96,
       "audioPath": "/good_with_friends.m4a",
-      "timelinePath": "/good_with_friends_timeline.json"
+      "timelinePath": "/good_with_friends_timeline.json",
+      "isPremium": false
     },
     {
       "id": "at_a_restaurant",
@@ -25,7 +26,8 @@
       "level": "A2",
       "durationSec": 219.52,
       "audioPath": "/on_the_road.m4a",
-      "timelinePath": "/on_the_road_timeline.json"
+      "timelinePath": "/on_the_road_timeline.json",
+      "isPremium": false
     },
     {
       "id": "plans_for_the_weekend",
@@ -78,7 +80,8 @@
       "level": "B2",
       "durationSec": 215.16,
       "audioPath": "/break_the_pattern.m4a",
-      "timelinePath": "/break_the_pattern_timeline.json"
+      "timelinePath": "/break_the_pattern_timeline.json",
+      "isPremium": false
     },
     {
       "id": "closer_than_ever",
@@ -113,7 +116,8 @@
       "level": "C1",
       "durationSec": 206.4,
       "audioPath": "/the_choices_we_never_made.m4a",
-      "timelinePath": "/the_choices_we_never_made_timeline.json"
+      "timelinePath": "/the_choices_we_never_made_timeline.json",
+      "isPremium": false
     }
   ]
 }
