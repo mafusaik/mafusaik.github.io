@@ -1,15 +1,14 @@
 {
   "baseUrl": "https://mafusaik.github.io/tracks",
-  "version": 6,
+  "version": 7,
   "tracks": [
     {
-      "id": "morning_routine",
-      "title": "Morning Routine",
-      "level": "A2",
-      "durationSec": 150.0,
-      "audioPath": "/morning_routine.m4a",
-      "timelinePath": "/morning_routine_timeline.json",
-      "isPremium": false
+      "id": "good_with_friends",
+      "title": "Good With Friends",
+      "level": "A1",
+      "durationSec": 185.96,
+      "audioPath": "/good_with_friends.m4a",
+      "timelinePath": "/good_with_friends_timeline.json"
     },
     {
       "id": "at_a_restaurant",
@@ -18,6 +17,23 @@
       "durationSec": 199.6,
       "audioPath": "/at_a_restaurant.m4a",
       "timelinePath": "/at_a_restaurant_timeline.json",
+      "isPremium": false
+    },
+    {
+      "id": "on_the_road",
+      "title": "On the Road",
+      "level": "A2",
+      "durationSec": 219.52,
+      "audioPath": "/on_the_road.m4a",
+      "timelinePath": "/on_the_road_timeline.json"
+    },
+    {
+      "id": "plans_for_the_weekend",
+      "title": "Plans for the Weekend",
+      "level": "A2",
+      "durationSec": 174.4,
+      "audioPath": "/plans_for_the_weekend.m4a",
+      "timelinePath": "/plans_for_the_weekend_timeline.json",
       "isPremium": true
     },
     {
@@ -39,6 +55,15 @@
       "isPremium": true
     },
     {
+      "id": "some_people_never_disappear",
+      "title": "Some People Never Disappear",
+      "level": "B1",
+      "durationSec": 174.0,
+      "audioPath": "/some_people_never_disappear.m4a",
+      "timelinePath": "/some_people_never_disappear_timeline.json",
+      "isPremium": false
+    },
+    {
       "id": "turning_a_new_page",
       "title": "Turning a New Page",
       "level": "B1",
@@ -48,22 +73,21 @@
       "isPremium": true
     },
     {
-      "id": "plans_for_the_weekend",
-      "title": "Plans for the Weekend",
-      "level": "B1",
-      "durationSec": 174.4,
-      "audioPath": "/plans_for_the_weekend.m4a",
-      "timelinePath": "/plans_for_the_weekend_timeline.json",
-      "isPremium": true
+      "id": "break_the_pattern",
+      "title": "Break the Pattern",
+      "level": "B2",
+      "durationSec": 215.16,
+      "audioPath": "/break_the_pattern.m4a",
+      "timelinePath": "/break_the_pattern_timeline.json"
     },
     {
-      "id": "some_people_never_disappear",
-      "title": "Some People Never Disappear",
-      "level": "B1",
-      "durationSec": 174.0,
-      "audioPath": "/some_people_never_disappear.m4a",
-      "timelinePath": "/some_people_never_disappear_timeline.json",
-      "isPremium": false
+      "id": "closer_than_ever",
+      "title": "Closer Than Ever",
+      "level": "B2",
+      "durationSec": 244.24,
+      "audioPath": "/closer_than_ever.m4a",
+      "timelinePath": "/closer_than_ever_timeline.json",
+      "isPremium": true
     },
     {
       "id": "speaking_honestly",
@@ -75,13 +99,21 @@
       "isPremium": true
     },
     {
-      "id": "closer_than_ever",
-      "title": "Closer Than Ever",
+      "id": "too_many_thoughts",
+      "title": "Too Many Thoughts",
       "level": "B2",
-      "durationSec": 244.24,
-      "audioPath": "/closer_than_ever.m4a",
-      "timelinePath": "/closer_than_ever_timeline.json",
+      "durationSec": 219.0,
+      "audioPath": "/too_many_thoughts.m4a",
+      "timelinePath": "/too_many_thoughts_timeline.json",
       "isPremium": false
+    },
+    {
+      "id": "the_choices_we_never_made",
+      "title": "The Choices We Never Made",
+      "level": "C1",
+      "durationSec": 206.4,
+      "audioPath": "/the_choices_we_never_made.m4a",
+      "timelinePath": "/the_choices_we_never_made_timeline.json"
     }
   ]
 }
