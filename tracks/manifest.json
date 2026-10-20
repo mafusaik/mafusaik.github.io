@@ -29,7 +29,8 @@
       "style": "lo-fi jazz",
       "durationSec": 150.8,
       "audioPath": "/make_it_fresh.m4a",
-      "timelinePath": "/make_it_fresh_timeline.json"
+      "timelinePath": "/make_it_fresh_timeline.json",
+      "isPremium": true
     },
     {
       "id": "at_a_restaurant",
@@ -39,7 +40,7 @@
       "durationSec": 199.6,
       "audioPath": "/at_a_restaurant.m4a",
       "timelinePath": "/at_a_restaurant_timeline.json",
-      "isPremium": false
+      "isPremium": true
     },
     {
       "id": "on_the_road",
@@ -119,7 +120,7 @@
       "durationSec": 215.16,
       "audioPath": "/break_the_pattern.m4a",
       "timelinePath": "/break_the_pattern_timeline.json",
-      "isPremium": false
+      "isPremium": true
     },
     {
       "id": "closer_than_ever",
@@ -129,7 +130,7 @@
       "durationSec": 87.04,
       "audioPath": "/closer_than_ever.m4a",
       "timelinePath": "/closer_than_ever_timeline.json",
-      "isPremium": true
+      "isPremium": false
     },
     {
       "id": "speaking_honestly",
@@ -149,7 +150,7 @@
       "durationSec": 219.0,
       "audioPath": "/too_many_thoughts.m4a",
       "timelinePath": "/too_many_thoughts_timeline.json",
-      "isPremium": false
+      "isPremium": true
     },
     {
       "id": "different_tongues",
@@ -158,7 +159,8 @@
       "style": "electronic hip-hop",
       "durationSec": 151.12,
       "audioPath": "/different_tongues.m4a",
-      "timelinePath": "/different_tongues_timeline.json"
+      "timelinePath": "/different_tongues_timeline.json",
+      "isPremium": true
     },
     {
       "id": "reassembling",
@@ -167,7 +169,8 @@
       "style": "hip-hop",
       "durationSec": 161.2,
       "audioPath": "/reassembling.m4a",
-      "timelinePath": "/reassembling_timeline.json"
+      "timelinePath": "/reassembling_timeline.json",
+      "isPremium": true
     },
     {
       "id": "the_choices_we_never_made",
@@ -177,7 +180,7 @@
       "durationSec": 206.4,
       "audioPath": "/the_choices_we_never_made.m4a",
       "timelinePath": "/the_choices_we_never_made_timeline.json",
-      "isPremium": false
+      "isPremium": true
     }
   ]
 }
