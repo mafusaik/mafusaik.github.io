@@ -1,6 +1,6 @@
 {
   "baseUrl": "https://mafusaik.github.io/tracks",
-  "version": 9,
+  "version": 10,
   "tracks": [
     {
       "id": "good_with_friends",
@@ -37,7 +37,7 @@
       "title": "At a Restaurant",
       "level": "A2",
       "style": "pop",
-      "durationSec": 199.6,
+      "durationSec": 77.6,
       "audioPath": "/at_a_restaurant.m4a",
       "timelinePath": "/at_a_restaurant_timeline.json",
       "isPremium": true
@@ -51,26 +51,6 @@
       "audioPath": "/on_the_road.m4a",
       "timelinePath": "/on_the_road_timeline.json",
       "isPremium": false
-    },
-    {
-      "id": "plans_for_the_weekend",
-      "title": "Plans for the Weekend",
-      "level": "A2",
-      "style": "pop",
-      "durationSec": 174.4,
-      "audioPath": "/plans_for_the_weekend.m4a",
-      "timelinePath": "/plans_for_the_weekend_timeline.json",
-      "isPremium": true
-    },
-    {
-      "id": "step_by_step",
-      "title": "Step by Step",
-      "level": "A2",
-      "style": "EDM-pop",
-      "durationSec": 185.16,
-      "audioPath": "/step_by_step.m4a",
-      "timelinePath": "/step_by_step_timeline.json",
-      "isPremium": true
     },
     {
       "id": "ask_for_it",
@@ -100,7 +80,7 @@
       "durationSec": 174.0,
       "audioPath": "/some_people_never_disappear.m4a",
       "timelinePath": "/some_people_never_disappear_timeline.json",
-      "isPremium": false
+      "isPremium": true
     },
     {
       "id": "turning_a_new_page",
@@ -110,7 +90,7 @@
       "durationSec": 82.76,
       "audioPath": "/turning_a_new_page.m4a",
       "timelinePath": "/turning_a_new_page_timeline.json",
-      "isPremium": true
+      "isPremium": false
     },
     {
       "id": "break_the_pattern",
