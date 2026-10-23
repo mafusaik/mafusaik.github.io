@@ -1,6 +1,6 @@
 {
   "baseUrl": "https://mafusaik.github.io/tracks",
-  "version": 10,
+  "version": 11,
   "tracks": [
     {
       "id": "good_with_friends",
@@ -51,6 +51,26 @@
       "audioPath": "/on_the_road.m4a",
       "timelinePath": "/on_the_road_timeline.json",
       "isPremium": false
+    },
+    {
+      "id": "pirates_treasure",
+      "title": "Pirate's Treasure (for kids)",
+      "level": "A2",
+      "style": "kids",
+      "durationSec": 92.8,
+      "audioPath": "/pirates_treasure.m4a",
+      "timelinePath": "/pirates_treasure_timeline.json",
+      "isPremium": true
+    },
+    {
+      "id": "plans_for_the_weekend",
+      "title": "Plans for the Weekend",
+      "level": "A2",
+      "style": "pop",
+      "durationSec": 69.6,
+      "audioPath": "/plans_for_the_weekend.m4a",
+      "timelinePath": "/plans_for_the_weekend_timeline.json",
+      "isPremium": true
     },
     {
       "id": "ask_for_it",
